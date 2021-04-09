@@ -273,6 +273,7 @@
   <ItemGroup>
     <None Include="Resources\SpriteList.txt" />
     <None Include="Resources\Letters.png" />
+    <EmbeddedResource Include="Resources\Newtonsoft.Json.dll" />
     <Content Include="VioletEgg.ico" />
   </ItemGroup>
   <ItemGroup>
